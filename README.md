@@ -1,9 +1,12 @@
 
 # FridaScriptGen
 
-Generate Frida bypass scripts for Android root and SSL checks.
+It scans an APK’s Smali code for root-detection and SSL-pinning patterns and then automatically creates Frida scripts to bypass these security checks.
+
 
 <img width="544" alt="image" src="https://github.com/user-attachments/assets/72dbf90d-9cf7-462c-a5c7-430fe4265a81" />
+
+<img width="567" alt="image" src="https://github.com/user-attachments/assets/2e780eb5-fcdc-41ca-b1c9-7c8550d80b67" />
 
 
 ## Features
