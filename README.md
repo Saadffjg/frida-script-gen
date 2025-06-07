@@ -18,7 +18,13 @@ It scans an APK’s Smali code for root-detection and SSL-pinning patterns and t
  
 > **Note:** This is the lite version of the script.
  
- 
+
+- Currently, this is a 𝐥𝐢𝐭𝐞 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 🪶 that supports 83+ root & SSL detection methods.
+- 🔍 Performs Smali pattern checks and generates hooks.
+- Eliminates the need to run and manage multiple scripts manually.
+- 🚫 Does not support highly complex obfuscation or low-level binary checks. Not guaranteed to work for all scenarios
+- 🔧 Under active development and will be improved over time.
+
 ## Usage
 ```bash
 python3 frida-script-gen.py <apk_file> [-o output_name]
