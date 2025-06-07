@@ -10,8 +10,7 @@ It scans an APK’s Smali code for root-detection and SSL-pinning patterns and t
 
 
 ## Features
-- Analyzes APK for root/SSL detections
-- Creates tailored Frida scripts
+- Analyzes APK for root/SSL detections and creates tailored Frida scripts
 
 > **Note:** This is the lite version of the script.
 
