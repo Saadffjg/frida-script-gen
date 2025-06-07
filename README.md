@@ -1,4 +1,4 @@
-	# FridaScriptGen
+# FridaScriptGen
  
 It scans an APK’s Smali code for root-detection and SSL-pinning patterns and then automatically creates Frida scripts to bypass these security checks.
  
