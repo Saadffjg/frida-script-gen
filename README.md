@@ -3,6 +3,7 @@
 
 It scans an APK’s Smali code for root-detection and SSL-pinning patterns and then automatically creates Frida scripts to bypass these security checks.
 
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 <img width="544" alt="image" src="https://github.com/user-attachments/assets/72dbf90d-9cf7-462c-a5c7-430fe4265a81" />
 
